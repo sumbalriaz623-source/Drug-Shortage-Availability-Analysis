@@ -1,0 +1,101 @@
+generic_name,openfda.brand_name,company_name,status,shortage_reason,therapeutic_category,dosage_form,initial_posting_date,update_date
+Liraglutide Injection,['LIRAGLUTIDE'],"Novo Nordisk, Inc.",Current,,['Endocrinology/Metabolism'],Injection,07/18/2023,09/22/2026
+Clonazepam Tablet,['CLONAZEPAM'],Aurobindo Pharma USA,Current,,"['Neurology', 'Pediatric', 'Psychiatry']",Tablet,03/10/2023,06/02/2026
+Hydromorphone Hydrochloride Injection,['HYDROMORPHONE HYDROCHLORIDE'],"Hospira, Inc., a Pfizer Company",Current,,['Analgesia/Addiction'],Injection,10/31/2017,09/22/2026
+Amino Acid Injection,,Baxter Healthcare,Current,,['Gastroenterology'],Injection,12/08/2020,09/17/2026
+Sodium Bicarbonate Injection,['SODIUM BICARBONATE'],"Hospira, Inc., a Pfizer Company",To Be Discontinued,,"['Endocrinology/Metabolism', 'Gastroenterology', 'Pediatric']",Injection,11/07/2025,11/07/2025
+"Lisdexamfetamine Dimesylate Tablet, Chewable",['LISDEXAMFETAMINE DIMESYLATE'],"Sun Pharmaceutical Industries, Inc.",Current,,['Psychiatry'],"Tablet, Chewable",07/14/2023,09/18/2026
+Insulin Lispro-aabc Injection,['LYUMJEV TEMPO PEN'],Eli Lilly and Co.,To Be Discontinued,,['Endocrinology/Metabolism'],Injection,10/24/2025,10/24/2025
+Carboplatin Injection,['CARBOPLATIN'],"Hospira, Inc., a Pfizer Company",Current,Other,['Oncology'],Injection,04/28/2023,09/22/2026
+Flurazepam Hydrochloride Capsule,['FLURAZEPAM HYDROCHLORIDE'],Chartwell Molecular Holdings LLC,Current,,"['Oncology', 'Other']",Capsule,08/03/2022,09/15/2026
+Carboplatin Injection,['CARBOPLATIN'],Teyro Labs,To Be Discontinued,,['Oncology'],Injection,06/01/2026,06/01/2026
+Quinapril Hydrochloride Tablet,,Pfizer Inc.,To Be Discontinued,,['Cardiovascular'],Tablet,10/01/2025,10/01/2025
+Lisdexamfetamine Dimesylate Capsule,['LISDEXAMFETAMINE DIMESYLATE'],"Mylan Pharmaceuticals Inc., a Viatris Company",Current,,['Psychiatry'],Capsule,07/14/2023,09/17/2026
+Leflunomide Tablet,['ARAVA'],Sanofi-Aventis U.S. LLC,To Be Discontinued,,['Rheumatology'],Tablet,06/08/2026,06/08/2026
+Amino Acid Injection,['PLENAMINE'],B. Braun Medical Inc.,Current,,['Gastroenterology'],Injection,12/08/2020,09/22/2026
+Furosemide Injection,['FUROSEMIDE'],Gland Pharma Limited,Current,Discontinuation of the manufacture of the drug,['Cardiovascular'],Injection,04/07/2020,07/22/2026
+Clonazepam Tablet,['CLONAZEPAM'],Rubicon Research Private Limited,Current,,"['Neurology', 'Pediatric', 'Psychiatry']",Tablet,03/10/2023,06/01/2026
+Remifentanil Hydrochloride Injection,['REMIFENTANIL HYDROCHLORIDE'],"Fresenius Kabi USA, LLC",Current,,['Analgesia/Addiction'],Injection,06/28/2022,09/15/2026
+Lisdexamfetamine Dimesylate Capsule,['LISDEXAMFETAMINE DIMESYLATE'],"Sun Pharmaceutical Industries, Inc.",Current,Other,['Psychiatry'],Capsule,07/14/2023,09/18/2026
+Lidocaine Hydrochloride Injection,['LIDOCAINE HYDROCHLORIDE'],"Spectra Medical Devices, LLC",Current,Other,['Anesthesia'],Injection,06/14/2018,05/15/2026
+Cefepime Hydrochloride Injection,['CEFEPIME'],"Fresenius Kabi USA, LLC",To Be Discontinued,,['Anti-Infective'],Injection,02/10/2026,02/10/2026
+Furosemide Injection,['FUROSEMIDE'],"Hospira, Inc., a Pfizer Company",Current,,['Cardiovascular'],Injection,04/07/2020,09/22/2026
+Clonazepam Tablet,['CLONAZEPAM'],Accord Healthcare Inc.,Current,,"['Neurology', 'Pediatric', 'Psychiatry']",Tablet,03/10/2023,09/15/2026
+Ropivacaine Hydrochloride Injection,['ROPIVACAINE HYDROCHLORIDE'],InfoRLife SA,Current,Other,['Anesthesia'],Injection,03/27/2018,08/18/2026
+Lisdexamfetamine Dimesylate Capsule,['LISDEXAMFETAMINE DIMESYLATE'],"Teva Pharmaceuticals USA, Inc.",Current,,['Psychiatry'],Capsule,07/14/2023,09/15/2026
+Lopinavir and Ritonavir Oral Solution,['KALETRA'],AbbVie Inc.,To Be Discontinued,,['Antiviral'],Oral Solution,07/24/2026,07/24/2026
+"Methylphenidate Hydrochloride Tablet, Extended Release",['METHYLPHENIDATE HYDROCHLORIDE'],"Trigen Laboratories, LLC",Current,Demand increase for the drug,['Psychiatry'],Tablet,07/26/2023,09/16/2026
+Lidocaine Hydrochloride Injection,['LIDOCAINE HYDROCHLORIDE'],Anthea Pharma,Current,,"['Anesthesia', 'Pediatric']",Injection,02/22/2012,09/15/2026
+Dextrose Monohydrate 5% Injection,['DEXTROSE'],Baxter Healthcare,Current,,"['Endocrinology/Metabolism', 'Gastroenterology', 'Other', 'Pediatric']",Injection,02/14/2022,09/17/2026
+Bupivacaine Hydrochloride Injection,['BUPIVACAINE HYDROCHLORIDE'],"Somerset Therapeutics, LLC",Current,,['Anesthesia'],Injection,02/20/2018,09/11/2026
+Nebivolol Hydrochloride Tablet,,Torrent Pharmaceuticals Limited,To Be Discontinued,,['Cardiovascular'],Tablet,03/25/2026,03/25/2026
+Lidocaine Hydrochloride Injection,['LIDOCAINE HYDROCHLORIDE'],Eugia US LLC,Current,Demand increase for the drug,['Anesthesia'],Injection,06/13/2018,09/17/2026
+Lisdexamfetamine Dimesylate Capsule,['LISDEXAMFETAMINE DIMESYLATE'],"Teva Pharmaceuticals USA, Inc.",Current,,['Psychiatry'],Capsule,07/14/2023,09/15/2026
+"Imipenem Anhydrous, Cilastatin, and Relebactam Anhydrous Injection",['RECARBRIO'],Merck Sharp & Dohme LLC,To Be Discontinued,,['Anti-Infective'],Injection,09/09/2026,09/09/2026
+Dexmedetomidine Hydrochloride Injection,['DEXMEDETOMIDINE HYDROCHLORIDE IN 0.9% SODIUM CHLORIDE'],Baxter Healthcare,Current,,['Anesthesia'],Injection,04/10/2020,09/17/2026
+Tiagabine Hydrochloride Tablet,['TIAGABINE HYDROCHLORIDE'],"Teva Pharmaceuticals USA, Inc.",To Be Discontinued,,['Neurology'],Tablet,04/15/2026,04/15/2026
+"Metoprolol Succinate Tablet, Extended Release",['METOPROLOL SUCCINATE'],"Teva Pharmaceuticals USA, Inc.",To Be Discontinued,,['Cardiovascular'],Tablet,08/31/2026,08/31/2026
+Lisdexamfetamine Dimesylate Capsule,['LISDEXAMFETAMINE DIMESYLATE'],Amneal Pharmaceuticals,Current,,['Psychiatry'],Capsule,07/14/2023,06/17/2026
+"Lisdexamfetamine Dimesylate Tablet, Chewable",['LISDEXAMFETAMINE DIMESYLATE'],"Sun Pharmaceutical Industries, Inc.",Current,,['Psychiatry'],"Tablet, Chewable",07/14/2023,09/18/2026
+Itraconazole Capsule,['ITRACONAZOLE'],Janssen Pharmaceuticals,To Be Discontinued,,"['Anti-Infective', 'Other']",Capsule,02/27/2026,02/27/2026
+Dexmedetomidine Hydrochloride Injection,['PRECEDEX'],Pfizer Inc.,Current,,['Anesthesia'],Injection,04/10/2020,09/21/2026
+Bupivacaine Hydrochloride Injection,['SENSORCAINE MPF'],"Fresenius Kabi USA, LLC",Current,,['Anesthesia'],Injection,02/20/2018,09/15/2026
+Midazolam Hydrochloride Injection,['MIDAZOLAM'],"Hikma Pharmaceuticals USA, Inc.",Current,,"['Anesthesia', 'Neurology']",Injection,04/02/2020,09/18/2026
+Lisdexamfetamine Dimesylate Capsule,['VYVANSE'],Takeda Pharmaceuticals USA Inc.,Current,,['Psychiatry'],Capsule,07/14/2023,09/15/2026
+"Lisdexamfetamine Dimesylate Tablet, Chewable",['LISDEXAMFETAMINE DIMESYLATE'],"Sun Pharmaceutical Industries, Inc.",Current,,['Psychiatry'],"Tablet, Chewable",07/14/2023,09/18/2026
+Lasmiditan Succinate Tablet,['REYVOW'],Eli Lilly and Co.,To Be Discontinued,,['Neurology'],Tablet,11/03/2025,11/03/2025
+Dextrose Monohydrate 5% Injection,['DEXTROSE'],Otsuka ICU Medical LLC,Current,,"['Endocrinology/Metabolism', 'Gastroenterology', 'Other', 'Pediatric']",Injection,02/14/2022,09/16/2026
+Albuterol Sulfate Solution,['ALBUTEROL SULFATE'],Nephron Pharmaceuticals Corporation,Resolved,,"['Pulmonary/Allergy', 'Pediatric']",Solution,10/25/2022,08/27/2026
+Morphine Sulfate Injection,['DURAMORPH'],"Hikma Pharmaceuticals USA, Inc.",Current,,['Analgesia/Addiction'],Injection,11/03/2017,09/18/2026
+Ampicillin Sodium Injection,['AMPICILLIN'],Sandoz Inc.,To Be Discontinued,,['Anti-Infective'],Injection,12/08/2025,12/08/2025
+Midazolam Hydrochloride Injection,['MIDAZOLAM'],"Hospira, Inc., a Pfizer Company",Current,Demand increase for the drug,"['Anesthesia', 'Neurology']",Injection,04/02/2020,09/22/2026
+Lisdexamfetamine Dimesylate Capsule,,SpecGx LLC,Current,,['Psychiatry'],Capsule,07/14/2023,08/20/2026
+Fentanyl Citrate Injection,,"Hikma Pharmaceuticals USA, Inc.",Current,Other,"['Analgesia/Addiction', 'Pediatric']",Injection,12/20/2023,09/18/2026
+Clindamycin Phosphate Injection,['CLEOCIN PHOSPHATE'],Pfizer Inc.,To Be Discontinued,,['Anti-Infective'],Injection,06/01/2026,06/01/2026
+Rocuronium Bromide Injection,['ROCURONIUM BROMIDE'],Sagent Pharmaceuticals,Current,,['Anesthesia'],Injection,02/15/2023,09/18/2026
+Lorazepam Injection,['LORAZEPAM'],"Hospira, Inc., a Pfizer Company",Current,Demand increase for the drug,['Neurology'],Injection,05/03/2018,09/22/2026
+"Methylphenidate Hydrochloride Tablet, Extended Release",['METHYLPHENIDATE HYDROCHLORIDE'],"Trigen Laboratories, LLC",Current,Demand increase for the drug,['Psychiatry'],Tablet,07/26/2023,09/16/2026
+Lidocaine Hydrochloride Injection,['LIDOCAINE HYDROCHLORIDE'],Eugia US LLC,Current,Demand increase for the drug,['Anesthesia'],Injection,06/13/2018,09/17/2026
+Dopamine Hydrochloride Injection,['DOPAMINE HYDROCHLORIDE IN DEXTROSE'],"Hospira, Inc., a Pfizer Company",Current,Other,['Cardiovascular'],Injection,11/06/2017,09/22/2026
+"Calcium Chloride; Dextrose; Magnesium Chloride; Sodium Chloride; Sodium Lactate Intraperitoneal Injection, Solution",['DIANEAL PD-2 WITH DEXTROSE'],Vantive US Healthcare LLC,To Be Discontinued,,['Renal'],Solution,08/03/2026,08/03/2026
+Omeprazole Delayed Release Capsule,['OMEPRAZOLE'],Sandoz Inc.,To Be Discontinued,,['Gastroenterology'],,10/09/2025,10/09/2025
+"Mesalamine Capsule, Extended Release",['PENTASA'],Takeda Pharmaceuticals USA Inc.,To Be Discontinued,,['Gastroenterology'],"Capsule, Extended Release",09/16/2026,09/16/2026
+"Methylphenidate Hydrochloride Tablet, Extended Release",['RELEXXII'],"Vertical Pharmaceuticals, LLC",Current,,['Psychiatry'],Tablet,07/26/2023,09/16/2026
+Lidocaine Hydrochloride Injection,['XYLOCAINE MPF'],"Fresenius Kabi USA, LLC",Current,,"['Anesthesia', 'Pediatric']",Injection,02/22/2012,09/15/2026
+Elbasvir; Grazoprevir Tablet,['ZEPATIER'],Merck Sharp & Dohme LLC,To Be Discontinued,,['Antiviral'],Tablet,10/17/2025,10/17/2025
+"Calcium Chloride; Dextrose; Magnesium Chloride; Sodium Chloride; Sodium Lactate Intraperitoneal Injection, Solution",['DIANEAL LOW CALCIUM WITH DEXTROSE'],Vantive US Healthcare LLC,To Be Discontinued,,['Renal'],Solution,08/03/2026,08/03/2026
+Penicillin G Benzathine Injection,['BICILLIN L-A'],Pfizer Inc.,Current,Other,['Anti-Infective'],Injection,04/26/2023,09/21/2026
+Methotrexate Sodium Injection,['METHOTREXATE'],Accord Healthcare Inc.,Current,Other,"['Rheumatology', 'Oncology']",Injection,03/13/2023,09/15/2026
+"Methylphenidate Hydrochloride Tablet, Extended Release",['RELEXXII'],"Vertical Pharmaceuticals, LLC",Current,,['Psychiatry'],Tablet,07/26/2023,09/16/2026
+Lisdexamfetamine Dimesylate Capsule,['LISDEXAMFETAMINE DIMESYLATE'],Rhodes Pharmaceuticals L.P.,Current,Shortage of an active ingredient,['Psychiatry'],Capsule,07/14/2023,06/24/2026
+"Epinephrine Bitartrate, Lidocaine Hydrochloride Injection",['XYLOCAINE MPF'],"Fresenius Kabi USA, LLC",Current,,"['Anesthesia', 'Pediatric']",Injection,10/14/2016,09/15/2026
+Clindamycin Phosphate Injection,['CLINDAMYCIN'],Sagent Pharmaceuticals,Current,Discontinuation of the manufacture of the drug,['Anti-Infective'],Injection,03/21/2023,09/18/2026
+Promethazine Hydrochloride Injection,['PHENERGAN'],"Hikma Pharmaceuticals USA, Inc.",Current,,"['Analgesia/Addiction', 'Gastroenterology', 'Pediatric', 'Pulmonary/Allergy']",Injection,11/21/2023,09/18/2026
+Atropine Sulfate Injection,['ATROPINE SULFATE'],"Amphastar Pharmaceuticals, Inc.",Current,,"['Anesthesia', 'Neurology', 'Pediatric']",Injection,01/01/2020,09/16/2026
+Omeprazole Delayed Release Capsule,['OMEPRAZOLE'],Sandoz Inc.,To Be Discontinued,,['Gastroenterology'],,10/09/2025,10/09/2025
+Meperidine Hydrochloride Injection,['MEPERIDINE HYDROCHLORIDE'],"Hikma Pharmaceuticals USA, Inc.",Current,,['Analgesia/Addiction'],Injection,05/30/2025,09/18/2026
+Heparin Sodium Injection,['HEPARIN SODIUM'],"Fresenius Kabi USA, LLC",Current,Other,['Hematology'],Injection,11/14/2017,09/15/2026
+Dextrose Monohydrate 10% Injection,['DEXTROSE'],Baxter Healthcare,Current,,"['Endocrinology/Metabolism', 'Gastroenterology', 'Other', 'Pediatric']",Injection,03/01/2022,09/17/2026
+Somatropin Injection,['NORDITROPIN'],"Novo Nordisk, Inc.",To Be Discontinued,,['Endocrinology/Metabolism'],Injection,11/14/2025,11/14/2025
+Methylprednisolone Acetate Injection,['DEPO-MEDROL'],Pfizer Inc.,Current,,['Rheumatology'],Injection,12/15/2021,09/21/2026
+Midazolam Hydrochloride Injection,['MIDAZOLAM'],"Hospira, Inc., a Pfizer Company",Current,Demand increase for the drug,"['Anesthesia', 'Neurology']",Injection,04/02/2020,09/22/2026
+Lisdexamfetamine Dimesylate Capsule,,"Lannett Company, Inc.",Current,,['Psychiatry'],Capsule,07/14/2023,09/15/2026
+Frovatriptan Succinate Tablet,,"Endo Pharmaceuticals, Inc.",To Be Discontinued,,['Neurology'],Tablet,02/24/2026,02/24/2026
+Desmopressin Acetate Spray,,Apotex Corp.,Current,,['Hematology'],Spray,03/12/2021,09/16/2026
+Atropine Sulfate Injection,['ATROPINE SULFATE'],"Somerset Therapeutics, LLC",Current,,"['Anesthesia', 'Neurology', 'Pediatric']",Injection,01/01/2012,09/11/2026
+Midazolam Hydrochloride Injection,['MIDAZOLAM HYDROCHLORIDE'],"Avet Pharmaceuticals, Inc.",Current,,"['Anesthesia', 'Neurology']",Injection,04/02/2020,09/01/2026
+Morphine Sulfate Injection,['MORPHINE SULFATE'],"Amphastar Pharmaceuticals, Inc.",Current,,['Analgesia/Addiction'],Injection,12/06/2018,09/16/2026
+Lisdexamfetamine Dimesylate Capsule,['LISDEXAMFETAMINE DIMESYLATE'],"Teva Pharmaceuticals USA, Inc.",Current,,['Psychiatry'],Capsule,07/14/2023,09/15/2026
+Glycerol Phenylbutyrate Oral Liquid,['RAVICTI'],Amgen Inc.,To Be Discontinued,,['Inborn Errors'],,09/01/2026,09/01/2026
+Dexamethasone Sodium Phosphate Injection,['DEXAMETHASONE SODIUM PHOSPHATE'],"Hikma Pharmaceuticals USA, Inc.",Current,,"['Dermatology', 'Endocrinology/Metabolism', 'Gastroenterology', 'Hematology', 'Neurology', 'Oncology', 'Ophthalmology', 'Other', 'Pulmonary/Allergy', 'Rheumatology']",Injection,02/08/2019,09/18/2026
+Ropivacaine Hydrochloride Injection,['ROPIVACAINE HYDROCHLORIDE'],"Somerset Therapeutics, LLC",Current,,['Anesthesia'],Injection,03/23/2018,09/11/2026
+Morphine Sulfate Tablet,['MORPHINE SULFATE'],"Upsher-Smith Laboratories, LLC",To Be Discontinued,,['Analgesia/Addiction'],Tablet,12/22/2025,12/22/2025
+Morphine Sulfate Injection,['INFUMORPH 500'],"Hikma Pharmaceuticals USA, Inc.",Current,,['Analgesia/Addiction'],Injection,11/03/2017,09/18/2026
+"Lisdexamfetamine Dimesylate Tablet, Chewable",['LISDEXAMFETAMINE DIMESYLATE'],Novadoz Pharmaceuticals LLC,Current,,['Psychiatry'],"Tablet, Chewable",07/14/2023,09/16/2026
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","['DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE MONOHYDRATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE']",Sandoz Inc.,Current,,['Psychiatry'],Tablet,10/12/2022,09/18/2026
+Dexmedetomidine Hydrochloride Injection,['PRECEDEX'],Pfizer Inc.,Current,,['Anesthesia'],Injection,04/10/2020,09/21/2026
+Sodium Bicarbonate Injection,['SODIUM BICARBONATE'],"Hospira, Inc., a Pfizer Company",Current,Other,"['Endocrinology/Metabolism', 'Gastroenterology', 'Pediatric']",Injection,03/01/2017,09/22/2026
+Rifampin Injection,['RIFADIN IV'],Sanofi-Aventis U.S. LLC,To Be Discontinued,,['Anti-Infective'],Injection,04/20/2026,04/20/2026
+Quinapril Hydrochloride Tablet,['QUINAPRIL'],Chartwell Molecular Holdings LLC,Current,,['Cardiovascular'],Tablet,01/19/2023,09/15/2026
+Omeprazole Delayed Release Capsule,['OMEPRAZOLE'],Sandoz Inc.,To Be Discontinued,,['Gastroenterology'],,10/09/2025,10/09/2025
+Lidocaine Hydrochloride Injection,['LIDOCAINE HYDROCHLORIDE AND DEXTROSE'],B. Braun Medical Inc.,Current,,['Cardiovascular'],Injection,10/25/2017,09/22/2026
